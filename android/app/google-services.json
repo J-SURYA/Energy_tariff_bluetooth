@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "461014938946",
+    "firebase_url": "https://energy-tariff-system-default-rtdb.firebaseio.com",
+    "project_id": "energy-tariff-system",
+    "storage_bucket": "energy-tariff-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461014938946:android:6d58c292d8d601812784db",
+        "android_client_info": {
+          "package_name": "com.example.energy_tariff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuLTPxybQk4FL1hAoU-IPuDonb2QjU81M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
